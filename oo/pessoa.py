@@ -22,3 +22,4 @@ if __name__ == '__main__':
     del levy.filhos
     print(levy.__dict__)
     print(heber.__dict__)
+    print()
